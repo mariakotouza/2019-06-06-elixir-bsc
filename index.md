@@ -35,7 +35,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block
 {% endcomment %}
 
-<h2>Registration:</h2>
+<h2>Registration</h2>
 <p> Deadline for application is <strong>.., 2019</strong>. Chosen participants will be notified by <strong>.., 2019</strong> </p> 
 <p>There are <strong>.. seats</strong> available. Partecipants will be selected on <strong>Motivation letter</strong>. You can fill the motivation letter in the form below.</p>
 
