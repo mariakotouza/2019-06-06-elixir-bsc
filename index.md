@@ -39,7 +39,7 @@ For a workshop please delete the following block
 <p> Deadline for application is <strong>.., 2019</strong>. Chosen participants will be notified by <strong>.., 2019</strong> </p> 
 <p>There are <strong>.. seats</strong> available. Partecipants will be selected on <strong>Motivation letter</strong>. You can fill the motivation letter in the form below.</p>
 
-<p>To enroll fill this form: <a href="..">link</a> </p>
+<p>To enroll fill this form: <a href="">link</a> </p>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
