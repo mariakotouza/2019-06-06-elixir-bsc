@@ -2,8 +2,8 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Elixir-CNIO"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Melchor Fernández Almagro, 3. 28029 Madrid"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Software Carpentry Workshop - R for Reproducible Scientific Analysis - Spanish National Cancer Research Centre (CNIO)"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Spanish National Cancer Research Centre (CNIO)  Melchor Fernández Almagro, 3. 28029 Madrid"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "es"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "40.476688,-3.696091"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -12,8 +12,8 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-06-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-06-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Joaquín Morís, Maria Kotouza"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+helper: ["Laura Martínez, Kevin Troulé"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["inb.hub@bsc.es"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2019-06-06-elixir-bsc             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -36,8 +36,13 @@ For a workshop please delete the following block
 {% endcomment %}
 
 <h2>Registration</h2>
-<p> Deadline for application is <strong>.., 2019</strong>. Chosen participants will be notified by <strong>.., 2019</strong> </p> 
-<p>There are <strong>.. seats</strong> available. Partecipants will be selected on <strong>Motivation letter</strong>. You can fill the motivation letter in the form below.</p>
+<p>There are <strong>20 seats</strong> available. Participants will be selected based on their professional and motivation statement given in the form. You can fill the form below.</p>
+<p>To enroll fill this form: https://forms.gle/xT7Gspv97auQ5cbG8 </p>
+
+<p> <strong>Deadline</strong> for application is May 20, 2019.</p>
+<p> Chosen participants will be notified by May 22, 2019</p>
+
+<p> Space is limited and it will likely fill quickly. The course is free but a no-show-up fee will be charged to your institution if you do not show-up.</p>
 
 <p>To enroll fill this form: <a href="">link</a> </p>
 
