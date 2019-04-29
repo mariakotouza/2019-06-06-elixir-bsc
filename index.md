@@ -40,11 +40,11 @@ This workshop is possible thanks to the sponsorship and collaboration of the fol
 
 <div class="sponsor-logos">
 <figure>
-  <img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" style="width:100%">
+  <img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" style="width:20%">
   <figcaption> ELIXIR Excelerate is funded by the European Comission, contract no. 676559.</figcaption>
 </figure>
 <figure>
-  <img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" style="width:100%">
+  <img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" style="width:20%">
   <figcaptionThe Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF).</figcaption>
 </figure> 
 </div>
