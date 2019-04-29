@@ -50,8 +50,8 @@ This workshop is possible thanks to the sponsorship and collaboration of the fol
 <p></p>
 </figure> 
 <img src="fig/ELIXIR-Spain.png" alt="elixir" style="width:22%">
-<img src="fig/logo.BSC.Blue.large.png" alt="bsc" style="width:22%">
-<img src="fig/logo.cnio.png" alt="cnio" style="width:26%">
+<img src="fig/logo.BSC.Blue.large.png" alt="bsc" style="width:26%">
+<img src="fig/logo.cnio.png" alt="cnio" style="width:27%">
 <img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" style="width:22%">
 </div>
 
