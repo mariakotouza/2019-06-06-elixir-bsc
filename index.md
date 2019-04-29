@@ -38,8 +38,8 @@ For a workshop please delete the following block
 <h2>Registration</h2>
 <p>There are <strong>20 seats</strong> available. Participants will be selected based on their professional and motivation statement given in the form. You can fill the form below.</p>
 
-<p> <strong>Deadline</strong> for application is May 20, 2019.</p>
-<p> Chosen participants will be notified by May 22, 2019</p>
+<p> <strong>Deadline</strong> for application is <strong>May 20, 2019</strong>.</p>
+<p> Chosen participants will be notified by <strong>May 22, 2019</strong></p>
 
 <p> Space is limited and it will likely fill quickly. The course is free but a no-show-up fee will be charged to your institution if you do not show-up.</p>
 
