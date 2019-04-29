@@ -37,14 +37,13 @@ For a workshop please delete the following block
 
 <h2>Registration</h2>
 <p>There are <strong>20 seats</strong> available. Participants will be selected based on their professional and motivation statement given in the form. You can fill the form below.</p>
-<p>To enroll fill this form: https://forms.gle/xT7Gspv97auQ5cbG8 </p>
 
 <p> <strong>Deadline</strong> for application is May 20, 2019.</p>
 <p> Chosen participants will be notified by May 22, 2019</p>
 
 <p> Space is limited and it will likely fill quickly. The course is free but a no-show-up fee will be charged to your institution if you do not show-up.</p>
 
-<p>To enroll fill this form: <a href="">link</a> </p>
+<p>To enroll fill this form: <a href="https://forms.gle/xT7Gspv97auQ5cbG8">link</a> </p>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
