@@ -35,6 +35,20 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block
 {% endcomment %}
 
+<h2 id="certh">Sponsors and supporters</h2>
+This workshop is possible thanks to the sponsorship and collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+
+<div class="sponsor-logos">
+<figure>
+  <img src="fig/ logo.EXCELERATE.png" alt=" EXCELERATE" style="width:100%">
+  <figcaption> ELIXIR Excelerate is funded by the European Comission, contract no. 676559.</figcaption>
+</figure>
+<figure>
+  <img src="fig/ logo.INB.rgb.hor.EN.cutted.png" alt="INB" style="width:100%">
+  <figcaptionThe Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF).</figcaption>
+</figure> 
+</div>
+
 <h2>Registration</h2>
 <p>There are <strong>20 seats</strong> available. Participants will be selected based on their professional and motivation statement given in the form. You can fill the form below.</p>
 
