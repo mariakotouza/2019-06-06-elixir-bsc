@@ -43,7 +43,7 @@ This workshop is possible thanks to the sponsorship and collaboration of the fol
 <img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" width="130">
 <img src="fig/logo_UE_Ministerio_CienciaInnovacionUniversidades_ISCIII.png" alt="ISCIII" width="370">
 <img src="fig/logo.cnio.png" alt="cnio" width="130">
-<img src="fig/logo.BSC.Blue.large.png" alt="bsc" width="300">
+<img src="fig/logo.BSC.Blue.large.png" alt="bsc" width="70">
 
 <p></p>
 
