@@ -86,6 +86,14 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="content">Content</h2>
+<p>Topics covered include:</p>
+<ul>
+  <li>An introduction to scripting in R, and using the language for scientific applications and data handling</li>
+  <li>Effective use of the Unix command line</li>
+  <li>Version control with git and GitHub</li>
+</ul>
+
 
 <h2 id="general">General Information</h2>
 
