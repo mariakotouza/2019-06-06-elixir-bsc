@@ -96,7 +96,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <p></p>
 
-<p>Learning outcomes:</p>
+<p><strong>Learning outcomes</strong></p>
 <p>After attending this workshop you will be able to: </p>
 <ul>
   <li>Automate repetitive tasks, </li>
