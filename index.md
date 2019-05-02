@@ -100,10 +100,10 @@ displayed if the 'eventbrite' field in the header is not set.
 <p><strong>Learning outcomes</strong></p>
 <p>After attending this workshop you will be able to: </p>
 <ul>
-  <li>Automate repetitive tasks, </li>
-  <li>Capture small data manipulation steps that are normally not recorded to make research reproducible, </li>
-  <li>Manipulate R data and plots, </li>
-  <li>Use a few easy-to-remember commands to do most day-to-day version control tasks.</li>
+  <li>Automate repetitive tasks </li>
+  <li>Capture small data manipulation steps that are normally not recorded to make research reproducible </li>
+  <li>Plot and manipulate data using R </li>
+  <li>Use a few easy-to-remember commands to do most day-to-day version control tasks</li>
 </ul>
 
 
