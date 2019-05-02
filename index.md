@@ -38,12 +38,12 @@ For a workshop please delete the following block
 <h2 id="certh">Sponsors and supporters</h2>
 This workshop is possible thanks to the sponsorship and collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
-<img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" height="150">
-<img src="fig/ELIXIR-Spain.png" alt="elixir" height="150">
-<img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" height="150">
-<img src="fig/logo_UE_Ministerio_CienciaInnovacionUniversidades_ISCIII.png" alt="ISCIII" height="150">
-<img src="fig/logo.cnio.png" alt="cnio" height="150">
-<img src="fig/logo.BSC.Blue.large.png" alt="bsc" height="150">
+<img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" width="150">
+<img src="fig/ELIXIR-Spain.png" alt="elixir" width="150">
+<img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" width="150">
+<img src="fig/logo_UE_Ministerio_CienciaInnovacionUniversidades_ISCIII.png" alt="ISCIII" width="150">
+<img src="fig/logo.cnio.png" alt="cnio" width="150">
+<img src="fig/logo.BSC.Blue.large.png" alt="bsc" width="150">
 
 <p></p>
 
