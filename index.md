@@ -94,6 +94,8 @@ displayed if the 'eventbrite' field in the header is not set.
   <li>Version control with git and GitHub</li>
 </ul>
 
+<p></p>
+
 <p>Learning outcomes:</p>
 <p>After attending this workshop you will be able to: </p>
 <ul>
@@ -101,7 +103,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <li>Capture small data manipulation steps that are normally not recorded to make research reproducible, </li>
   <li>Manipulate R data and plots, </li>
   <li>Use a few easy-to-remember commands to do most day-to-day version control tasks.</li>
-<ul>
+</ul>
 
 
 
