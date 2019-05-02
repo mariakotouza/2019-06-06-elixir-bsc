@@ -58,7 +58,7 @@ The Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics
 
 <p> Space is limited and it will likely fill quickly. The course is free but a no-show-up fee will be charged to your institution if you do not show-up.</p>
 
-<p>To enroll fill this form: <a href="https://forms.gle/xT7Gspv97auQ5cbG8">link</a> </p>
+<p>To enroll fill this <a href="https://forms.gle/xT7Gspv97auQ5cbG8">form</a>. </p>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
@@ -87,7 +87,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="content">Content</h2>
-<p>Topics covered include:</p>
+<p>The topics that will be covered include:</p>
 <ul>
   <li>An introduction to scripting in R, and using the language for scientific applications and data handling</li>
   <li>Effective use of the Unix command line</li>
@@ -240,6 +240,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% elsif site.carpentry == "lc" %}
 <p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="">Post-workshop ELIXIR Survey</a></p>
 {% endif %}
 
 <hr/>
