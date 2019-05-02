@@ -38,7 +38,7 @@ For a workshop please delete the following block
 <h2 id="certh">Sponsors and supporters</h2>
 This workshop is possible thanks to the sponsorship and collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
-<img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" height="42" width="42">
+<img src="fig/logo.EXCELERATE.png" alt="EXCELERATE" height="200" width="200">
 <img src="fig/ELIXIR-Spain.png" alt="elixir" style="width:22%">
 <img src="fig/logo.INB.rgb.hor.EN.cutted.png" alt="INB" style="width:22%">
 <img src="fig/logo_UE_Ministerio_CienciaInnovacionUniversidades_ISCIII.png" alt="ISCIII" style="width:70%">
