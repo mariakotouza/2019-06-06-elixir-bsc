@@ -47,9 +47,8 @@ This workshop is possible thanks to the sponsorship and collaboration of the fol
 
 <p></p>
 
-The Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF).</figcaption>
+The Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF).
 
-</div>
 
 <h2>Registration</h2>
 <p>There are <strong>20 seats</strong> available. Participants will be selected based on their professional and motivation statement given in the form. You can fill the form below.</p>
