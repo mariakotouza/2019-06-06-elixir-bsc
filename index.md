@@ -87,7 +87,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="content">Content</h2>
-<p><strong>Topics<strong></p>
+<p><strong>Topics</strong></p>
 <p>The topics that will be covered include:</p>
 <ul>
   <li>An introduction to scripting in R, and using the language for scientific applications and data handling</li>
