@@ -14,7 +14,7 @@ enddate: 2019-06-07        # machine-readable end date for the workshop in YYYY-
 instructor: ["Joaquín Morís, Maria Kotouza"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Laura Martínez, Kevin Troulé, Coral Fustero"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["inb.hub@bsc.es"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2019-06-06-elixir-bsc             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-06-06-elixir-inb-cnio             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -248,6 +248,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% if site.carpentry == "swc" %} 
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/BWJYC95">Post-workshop ELIXIR Survey</a></p>
 {% elsif site.carpentry == "dc" %}
 <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
@@ -255,7 +256,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 <p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="">Post-workshop ELIXIR Survey</a></p>
 {% endif %}
 
 <hr/>
